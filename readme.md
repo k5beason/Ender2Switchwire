@@ -1,5 +1,13 @@
 # Voron Switchwire
 
+Software:
+
+Kipper: https://www.klipper3d.org 
+
+Mainsail: https://docs.mainsail.xyz
+
+Hardware:
+
 BTT SKR Mini v1.2
 
 RPI 3b
