@@ -1,10 +1,8 @@
 # Voron Switchwire
 
 Software:
-
-Kipper: https://www.klipper3d.org 
-
-Mainsail: https://docs.mainsail.xyz
+Kipper: https://www.klipper3d.org   
+Mainsail: https://docs.mainsail.xyz  
 
 Hardware:
 
