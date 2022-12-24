@@ -13,7 +13,7 @@ Mellow Fly-SB2040
 Clockwork 2 Extruder  
 StealthBurner Toolhead  
 E3d V6 Hotend  
+Ender3 Printbed 235mmx235mm
 
 
-
-215 x 225mm Print Area
+215 x 215mm Print Area
